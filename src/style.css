@@ -129,6 +129,7 @@ i, em {
 }
 .contenidos h3 {
 	font-size: 2em;
+  line-height: 2.5em;
 	font-weight: 700;
   padding-top: 2em;
 	padding-bottom: 1em;
@@ -181,7 +182,7 @@ i, em {
 /* Responsive */
 @media (max-width: 920px) {
   .contenidos .texto {
-    width: 90%;
+    width: 95%;
   }
   body {
   	font-size: 1.2em;
