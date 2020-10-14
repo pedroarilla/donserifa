@@ -129,10 +129,10 @@ i, em {
 }
 .contenidos h3 {
 	font-size: 2em;
-  line-height: 2.5em;
+  line-height: 2em;
 	font-weight: 700;
-  padding-top: 2em;
-	padding-bottom: 1em;
+  padding-top: 1em;
+	padding-bottom: 0.5em;
 }
 .contenidos .texto {
   width: 920px;
