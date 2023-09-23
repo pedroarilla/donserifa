@@ -124,8 +124,8 @@ i, em {
 	margin: 0;
 	padding: 4em 2em;
 	text-align: center;
-  background-color: #1151fb;
-	color: #fff;
+  background-color: #fff;
+	color: #1151fb;
 }
 .contenidos h3 {
 	font-size: 2em;
@@ -144,11 +144,11 @@ i, em {
   line-height: 1.4em;
 }
 .contenidos .texto p a {
-  color: #fff;
-  box-shadow: 0 1px 0 0px #fff;
+  color: #1151fb;
+  box-shadow: 0 1px 0 0px #1151fb;
 }
 .contenidos .texto p a:hover {
-  box-shadow: 0 5px 0 0px #fff;
+  box-shadow: 0 5px 0 0px #1151fb;
 }
 .contenidos .contenidos-boton {
 	margin-top: 2em;
@@ -156,13 +156,13 @@ i, em {
 }
 .contenidos .contenidos-boton a {
 	padding: 0.75em 1.5em;
-	color: #fff;
-	border: 1px solid #fff;
+	color: #1151fb;
+	border: 1px solid #1151fb;
 	border-radius: 5px;
 }
 .contenidos .contenidos-boton a:hover {
-	border-color: #fff;
-	background-color: #fff;
+	border-color: #1151fb;
+	background-color: #1151fb;
   color: #1151fb;
 }
 
@@ -171,8 +171,8 @@ i, em {
   margin: 0;
   padding: 1.25em 2em;
   text-align: center;
-	background-color: #1151fb;
-	color: white;
+	background-color: #fff;
+	color: #1151fb;
 }
 .credits div {
 	font-size: 0.8em;
